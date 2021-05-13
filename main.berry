@@ -1,0 +1,1 @@
+func mangbot() { return "의도는 좋았으나 반응이 적은 망봇" }
